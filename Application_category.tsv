@@ -1,0 +1,22 @@
+ansys	Fluid dynamics
+abaqus	Fluid dynamics
+anaconda	Tools/Utilities
+boost	Libraries
+fftw	Libraries
+fzf	Tools/Utilities
+gaussian09	Computational chemistry
+gaussian16	Computational chemistry
+gaussview	Computational chemistry
+imagej	Tools/Utilities
+matlab	Mathematical/Statistics
+octave	Mathematical/Statistics
+openblas	Libraries
+paraview	Audio/Visualization
+qemu	Tools/Utilities
+r	Mathematical/Statistics
+schrodinger	Computational chemistry
+tecplot	Audio/Visualization
+texlive	Tools/Utilities
+thermocalc	Material science
+vim	Text Editors
+vlc	Audio/Visualization
